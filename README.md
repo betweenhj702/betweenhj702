@@ -1,4 +1,4 @@
-### Hi there 👋
+### 저는요?
 
 <!--
 **betweenhj702/betweenhj702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Java, JSP/Servlet, Spring Framework, Oracle, JavaScript in BitCamp(20.10.19 ~ 21.03.31)
+🌱 국비 지원 훈련기관 비트 캠프 수료 (20.10.19 ~ 21.03.31)
+🔭 전북대학교 물리교육과 졸업 (2006.03 ~ 2012.02) 
 
 ### Skill
 
