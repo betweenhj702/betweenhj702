@@ -4,6 +4,8 @@
 🤔 정보처리기사 필기 합격 (2020.10)<br>
 🔭 전북대학교 물리교육과 졸업 (2006.03 ~ 2012.02) 
 
+<br>
+
 ## 할 수 있는 것
 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="http://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white"> <img src="http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">
