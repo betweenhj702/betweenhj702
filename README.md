@@ -43,6 +43,13 @@
   * Eclipse EE, MVC model project, JDBC, Oracle, Tomcat9, JSP/Servlet
   * html, css, javascript
 
+# 키보드 워리어
+  https://github.com/betweenhj702/ProjectGame1201
+## 개요
+3명의 팀원과 6일 동안 진행한 첫 프로젝트입니다.<br>
+처음 접속한 유저가 선택한 제시어로 게임이 진행되고, 제시어에 관련된 단어를 많이 타이핑한 사람이 승리하는 게임입니다.<br>
+자바의 서버소켓과 소켓 객체를 이용하여 온라인으로 최대 4명까지 같이 즐길 수 있습니다.<br>
+자바 스윙으로 UI를 구현하였습니다.
 
 <!--
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
