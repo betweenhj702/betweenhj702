@@ -1,28 +1,14 @@
-### 저는요?
+## 저는요?
 
-<!--
-**betweenhj702/betweenhj702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🌱 국비 지원 훈련기관 비트 캠프 수료 (20.10.19 ~ 21.03.31)<br>
+🌱 국비 지원 훈련기관 비트 캠프 수료(우수상 수상) (20.10.19 ~ 21.03.31)<br>
 🔭 전북대학교 물리교육과 졸업 (2006.03 ~ 2012.02) 
 
-### Skill
+## Skill
 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="http://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white"> <img src="http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
-### 프로젝트
+## 교육과정 내 프로젝트
 ### HiBooks
 Final Project in BitCamp, modeling Book shop website.
 
@@ -41,7 +27,7 @@ Final Project in BitCamp, modeling Book shop website.
    * Java 1.8, Spring Framework 5.0.7, Mybatis, Hikari CP, Spring Security, JSOUP, KOMORAN ....
    * Tomcat9, Oracle, STS3, VS code, Git Desktop, Git gui
    * html5, css, Javascript, jquery, ajax, bootstrap
-   * 
+   
 <!--
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
@@ -58,4 +44,18 @@ Final Project in BitCamp, modeling Book shop website.
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+-->
+<!--
+**betweenhj702/betweenhj702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
