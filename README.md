@@ -10,8 +10,7 @@
 
 ## 교육과정 내 프로젝트
 ### HiBooks
-Final Project in BitCamp, modeling Book shop website.
-
+  https://github.com/betweenhj702/HiBooks
 #### 개요
 
  - [개발 일지(벨로그)] https://velog.io/@betweenhj702?tag=Final-PJ
