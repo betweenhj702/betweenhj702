@@ -9,6 +9,8 @@
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="http://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white"> <img src="http://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
+<br>  
+
 ## 교육과정 내 프로젝트
 ### HiBooks
   https://github.com/betweenhj702/HiBooks
@@ -28,6 +30,7 @@
    * Tomcat9, Oracle, STS3, VS code, Git Desktop, Git gui
    * html5, css, Javascript, jquery, ajax, bootstrap
 
+<br>
 
 ### 아몬드 쇼핑몰
   https://github.com/betweenhj702/MVC-mini-PJ
@@ -43,10 +46,11 @@
 - 사용 기술
   * Eclipse EE, MVC model project, JDBC, Oracle, Tomcat9, JSP/Servlet
   * html, css, javascript
+<br>
 
-# 키보드 워리어
+### 키보드 워리어
   https://github.com/betweenhj702/ProjectGame1201
-## 개요
+#### 개요
 3명의 팀원과 6일 동안 진행한 첫 프로젝트입니다.<br>
 처음 접속한 유저가 선택한 제시어로 게임이 진행되고, 제시어에 관련된 단어를 많이 타이핑한 사람이 승리하는 게임입니다.<br>
 자바의 서버소켓과 소켓 객체를 이용하여 온라인으로 최대 4명까지 같이 즐길 수 있습니다.<br>
